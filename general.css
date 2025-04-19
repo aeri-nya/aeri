@@ -1,0 +1,42 @@
+header {
+    color: #424242;
+    text-alrgb(99, 99, 99)nter;
+    padding: 20px 0;
+    font-family: 'Nauka-Regular', sans-serif;
+    nav li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: black;
+    }
+    text-align: center;
+}
+
+footer {
+    color: #424242;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}   
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.main-content {
+    max-width: 800px;
+    width: 100%;
+    text-align: left;
+}

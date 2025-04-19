@@ -1,3 +1,16 @@
 body {
-    background-color: #ff72e1; /* Light gray background */
-}
+    background-color: #ff72e1;
+    color: #424242; 
+    a {
+        color: #424242;
+    }
+    @font-face {
+        font-family: 'Nauka-Regular';
+        src: url('Nauka-Regular.tff') format('truetype');
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+}   
