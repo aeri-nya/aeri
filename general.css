@@ -1,12 +1,12 @@
 header {
     color: #424242;
-    text-alrgb(99, 99, 99)nter;
+    text-align: center;
     padding: 20px 0;
     font-family: 'Nauka-Regular', sans-serif;
     nav li {
         display: inline;
         margin-right: 20px;
-    }
+    }   
 
     nav ul {
         list-style: none;
